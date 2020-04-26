@@ -6,5 +6,7 @@ public class BASEAO {
         System.out.println("nisad");
 asdas
 scsc
+        System.out.println("nisad");
+asdasd
     }
 }
